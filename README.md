@@ -1,8 +1,3 @@
-Berikut versi **paling ringkas dan langsung ke inti sistem**: Arduino → Backend → Frontend.
-Bahasa Inggris, clean, tanpa bagian tambahan.
-
----
-
 # Electronic Nose System
 
 Arduino UNO R4 WiFi + Rust Backend + Python Frontend
